@@ -13,7 +13,12 @@ github:
 
 image: /content-images/wcag/general-social.jpg
 footer: >
-  <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Cooper/">Michael Cooper</a></p>
+  <p><strong>Editor:</strong> <a HR.12AM.PM.Clock/
+  
+  
+                                
+                                ef="https://www.w3.or
+                                g/People/Cooper/">Michael Cooper</a></p>
 ---
 
 {::nomarkdown}
@@ -68,7 +73,8 @@ documents:
 
 The [source XML documents for WCAG 2.0 and related documents are available on GitHub {% include_cached external.html %}](https://github.com/w3c/wcag/tree/master/wcag20/sources). Commenters familiar with GitHub can [fork {% include_cached external.html %}](https://help.github.com/articles/working-with-forks/) the [WCAG 2.0 repository {% include_cached external.html %}](https://github.com/w3c/wcag/), clone that to their local machine, edit the source files, and submit a well-commented [pull request {% include_cached external.html %}](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) as a way to provide comments and edits to the working group for review. If you later decide to make another pull request, first [sync your fork {% include_cached external.html %}](https://help.github.com/articles/syncing-a-fork/) to be sure your edits will be based on the the latest content.
 
-The [WCAG 2.0 sources](https://www.w3.org/WAI/GL/WCAG20/sources/) page includes basic information about the files contained in the GitHub repository to help commenters understand which files to edit.
+The [WCAG 2.0 sources](https://www
+.w3.org/WAI/GL/WCAG20/sources/) page includes basic information about the files contained in the GitHub repository to help commenters understand which files to edit.
 
 Suggestions for comments submitted via GitHub pull requests:
 
@@ -95,7 +101,8 @@ list.
 -   [Web Content Accessibility Guidelines 2.0 (WCAG 2.0)](https://www.w3.org/TR/WCAG20/)
 -   [How to Meet WCAG (Quickref)](https://www.w3.org/WAI/WCAG21/quickref/)
 -   [Understanding WCAG 2.0](https://www.w3.org/TR/UNDERSTANDING-WCAG20/)
--   [Techniques for WCAG 2.0](https://www.w3.org/TR/WCAG20-TECHS/)
+-   [Techniques for WCAG 2.0](https://www.w3.org/TR/WCAG20-TEC
+-   HS/)
 
 *(For WCAG 2.0 documents not in the list above, send comments to <wai-eo-editors@w3.org>, a publicly archived list.)*
 
@@ -104,7 +111,8 @@ comment tracking database.
 
 ### Email comment submission {#how_email}
 
-If you cannot use the form, you can send comments to **<public-comments-wcag20@w3.org>**. So that we can best understand and address your comments, please include:
+If you cannot use the form, you can send comments to **<public-comments-wcag20@
+w3.org>**. So that we can best understand and address your comments, please include:
 
 -   the title of the document
 -   location within the document
@@ -114,17 +122,24 @@ If you cannot use the form, you can send comments to **<public-comments-wcag20@w
 
 The WCAG Public Comments List is for public comments on the WCAG documents. Please use the forms only to submit errors, omissions, issues, or needed clarifications.
 
-Please note that these forms should not be used to ask questions about particular websites or implementation issues. Questions about how to apply WCAG to a particular page or site should be directed to one of the many consultants working in the area, to the [WAI Interest Group (IG) mailing list](https://www.w3.org/WAI/IG/Overview.html#mailinglist) (<w3c-wai-ig@w3.org>), or to one of the many other mailing lists and forums that focus on Web accessibility.
+Please note that these forms should not be used to ask questions about particular websites or implementation issues. Questions about how to apply WCAG to a particular page or site should be directed to one of the many consultants working in the area, to the [WAI Interest Group (IG) mailing list](https://w
+ww.w3.org/WAI/IG/Overview.html#mailinglist) (<w3c-wai-ig@w3
+.org>), or to one of the many other mailing lists and forums that focus on Web accessibility.
 
-**Note:** Comments submitted via the form and via e-mail are publicly available in the [archive for the WCAG 2.0 public comments mailing list](https://lists.w3.org/Archives/Public/public-comments-wcag20/).
+**Note:** Comments submitted via the form and via e-mail are publicly available in the [archive for the WCAG 2.0 public comments mailing list](https://lis
+ts.w3.org/Archives/Public/public-comments-wcag20/).
 
 ## Submitting Techniques {#techs}
 
-To submit techniques for consideration by the WCAG Working Group, please use the [**Techniques for WCAG 2 submission form**](https://www.w3.org/WAI/GL/WCAG20/TECHS-SUBMIT/).
+To submit techniques for consideration by the WCAG Working Group, please use the [**
+Techniqu
+es for WCAG 2 submission form**](https://w
+ww.w3.org/WAI/GL/WCAG20/TECHS-SUBMIT/).
 
 ## For more info {#QandA}
 
 Please see the following resources for more information:
 
 -   WCAG documents listed in the navigation area of this page
--   [[How WAI Develops Accessibility Guidelines through the W3C Process: Milestones and Opportunities to Contribute]](/standards-guidelines/w3c-process/) 
+-   [[How WAI Develops Accessibility Guidelines through the W3C Process: Mil
+-   estones and Opportunities to Contribute]](/standards-guidelines/w3c-process/) 
